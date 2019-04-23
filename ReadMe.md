@@ -3,8 +3,8 @@
 # 1.First you need to install package. you can do it by:
 npm install
 
-#2.To Run
+# 2.To Run
 npm run build
 
-#3. To serve
+# 3. To serve
 npm start
